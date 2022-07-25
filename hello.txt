@@ -8,4 +8,5 @@ hello git! 78888
 hello git! 99999
 hello git! 56565
 
-master master 
+master master
+hot-fix hot-fix
